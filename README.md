@@ -1,1 +1,1 @@
-# find_mecci
+program used for detecting mecciRNAs from RNA-seq data.
