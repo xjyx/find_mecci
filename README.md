@@ -7,4 +7,4 @@ __Program used for detecting mecciRNAs from RNA-seq data.__
 
 ## __!!!!__ Please __DO NOT__ contact me for ANY issue about this program.  
 
-## __!!!!__ NO ONE ELSE is authorized to use, copy, modify, or distribute the project. A violation of this provision means infringement.
+## __!!!!__ NO ONE ELSE is authorized to use, copy, modify, or distribute the project without my permission. A violation of this provision means infringement.
