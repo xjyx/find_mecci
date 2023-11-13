@@ -1,4 +1,4 @@
-__Program used for detecting mecciRNAs from RNA-seq data and explicating pains but no gains.__
+__Program used for detecting mecciRNAs from RNA-seq data and explicating pains but poor gains.__
 
 # __!!!!__ CRITICAL ALARM !!!!
 
