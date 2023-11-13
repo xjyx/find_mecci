@@ -1,4 +1,5 @@
-__Program used for detecting mecciRNAs from RNA-seq data.__
+__Program used for detecting mecciRNAs from RNA-seq data and explicating pains but no gains.__
+
 # __!!!!__ CRITICAL ALARM !!!!
 
 ## __!!!!__ This pipeline has neither been benchmarked against any existing software nor systematically tested on enough sequencing data, so its correctness cannot be guaranteed.  
