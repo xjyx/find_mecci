@@ -6,4 +6,4 @@ __!!!!__ I am under **NO obligation** to take responsibility for any possible ou
 
 ## Please __DO NOT__ contact me given that I was neither a co-first author nor even the second author of a study for which this program was developed by putting a lot of my effort into.  
 
-## __!!!__ No one else is authorized to use, copy, modify, or distribute the project.  
+## __!!!__ No one else is authorized to use, copy, modify, or distribute the project. 
