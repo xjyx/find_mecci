@@ -1,5 +1,8 @@
 __Program used for detecting mecciRNAs from RNA-seq data and explicating pains but poor gains.__
 
+# Motivation  
+  - **#** In October 2019, someone asked me for help about identifying mecciRNAs from RNA-seq data. From then on, by putting a lot effort into this work, I accomplished this program at December 2020.
+
 # __!!!!__ CRITICAL ALARM !!!!
 
   - **1.** This pipeline has __neither been benchmarked__ against any existing software __nor systematically__ tested on enough sequencing data, so its correctness __CANNOT__ be guaranteed.  
