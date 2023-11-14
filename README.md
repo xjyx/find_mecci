@@ -13,6 +13,6 @@ __Program used for detecting mecciRNAs from RNA-seq data and explicating pains b
 
   - **4.** __NO ONE ELSE__ is authorized to use, copy, modify, or distribute the project without my permission. A violation of this provision means infringement immediately.
 
-# Furtue plan
+# Future plan
 
 ## Currently, I assert that there's no plan to benchmark or improve this program in the future.
