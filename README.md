@@ -15,4 +15,4 @@ __Program used for detecting mecciRNAs from RNA-seq data and explicating pains b
 
 # Future plan
 
-## Currently, I assert that there's no plan to benchmark or improve this program in the future unless my efforts are payed properly.
+## Currently, I assert that there's no plan to benchmark or improve this program in the future unless my efforts are  appropriately rewarded.
