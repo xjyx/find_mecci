@@ -10,4 +10,4 @@ __Program used for detecting mecciRNAs from RNA-seq data and explicating pains b
 
   - **4.** NO ONE ELSE is authorized to use, copy, modify, or distribute the project without my permission. A violation of this provision means infringement.
 
-  - **5.** If you cannot understand the above declaration or even try to force me to change them, ASK YOURSELF whether you'd went against your conscience.
+  - **5.** If you cannot understand the above declarations or even try to force me to change them, ASK YOURSELF whether you'd went against your conscience if any.
