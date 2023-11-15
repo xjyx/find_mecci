@@ -12,4 +12,4 @@ __Program used for detecting mecciRNAs from RNA-seq data__
 
 # Future plan
 
-## Currently, I assert that there's no plan to benchmark or improve this program in the future.
+## Currently, there's no plan to benchmark or improve this program in the future.
