@@ -1,0 +1,3 @@
+To use this software for the development of a commercial product, including but not limited to software, service, or pharmaceuticals, please contact Yan Yang (yangyan2015@mail.ustc.edu.cn).
+
+Redistribution of the code with or without modification is NOT permitted without explicit written permission by Yan Yang (yangyan2015@mail.ustc.edu.cn).
